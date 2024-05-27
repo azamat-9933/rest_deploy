@@ -1,0 +1,6 @@
+/.idea
+/staticfiles
+/static
+db.sqlite3
+/venv
+/media
